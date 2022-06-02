@@ -1,0 +1,37 @@
+[
+  {
+    "groupId": "5516993038906-1487754383@g.us",
+    "numbers": [
+      {
+        "id": "5516991865841@s.whatsapp.net",
+        "messages": 4,
+        "cmd_messages": 0
+      },
+      {
+        "id": "",
+        "messages": 2,
+        "cmd_messages": 0
+      }
+    ]
+  },
+  {
+    "groupId": "120363024653904360@g.us",
+    "numbers": [
+      {
+        "id": "5516991865841@s.whatsapp.net",
+        "messages": 10,
+        "cmd_messages": 0
+      },
+      {
+        "id": "559185841876@s.whatsapp.net",
+        "messages": 4,
+        "cmd_messages": 0
+      },
+      {
+        "id": "5511968185606:49@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0
+      }
+    ]
+  }
+]
